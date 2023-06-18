@@ -1,1 +1,15 @@
+baseURL = 'http://kontura.github.io/'
+languageCode = 'en-us'
+title = 'Aleš Matěj'
 theme = 'holy'
+
+[params]
+  copyright = "For fox's sake"
+  mainSections = ['posts']
+
+[menu]
+  [[menu.main]]
+    identifier = "projects"
+    name = "Projects"
+    url = "/projects/"
+    weight = 10

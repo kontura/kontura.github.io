@@ -12,4 +12,4 @@ Inspired by now archived [Sourcetrail](https://github.com/CoatiSoftware/Sourcetr
 
 Requires set up LSP because it is using `callHierarchy/incomingCalls` handler to get the required information.
 
-It is using a simple genetic algorithm to minimize the number of crossing in the generated graph.
+It is using a simple genetic algorithm to minimize the number of crossings in the generated graph.

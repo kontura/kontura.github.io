@@ -8,6 +8,8 @@ title: "Trails (Lua, Neovim)"
 
 Neovim plugin generating interactive ascii art call graph.
 
-Inspired by now archived Sourcetrail.
+Inspired by now archived [Sourcetrail](https://github.com/CoatiSoftware/Sourcetrail).
 
 Requires set up LSP because it is using `callHierarchy/incomingCalls` handler to get the required information.
+
+It is using a simple genetic algorithm to minimize the number of crossing in the generated graph.

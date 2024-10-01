@@ -7,6 +7,7 @@ title: "Rockquid (Rust, Bevy)"
 [Repository](https://github.com/kontura/rockquid)
 
 Small game written in Rust in the [Bevy](https://bevyengine.org/) engine.
-The player controlls a rocket avoiding obstacles and shooting down enemies.
 
-This is very much work in progress and programmer art right now.
+The player controlls a rocket, avoids obstacles and shoots down enemies.
+
+This is very much not finished and programmer art.

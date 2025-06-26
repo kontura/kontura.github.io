@@ -4,6 +4,8 @@ title: "Slime (C++, Compute shaders)"
 
 {{< youtube LKzrWr1Vxvs >}}
 
+<iframe id="odysee-iframe" style="width:100%; aspect-ratio:16 / 9;" src="https://odysee.com/%24/embed/%40SawMusic%3Ac%2FBroods-Peach_009%3A8?r=AapCoCa5Qc2Av5iQS4vDbjAsKVnP5gyE" allowfullscreen></iframe>
+
 [Repository](https://github.com/kontura/slime)
 
 This CLI program can generate visualisations based on sound (music) input.

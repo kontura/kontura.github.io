@@ -9,7 +9,12 @@ theme = 'holy'
 
 [menu]
   [[menu.main]]
+    identifier = "cv"
+    name = "CV"
+    url = "/cv.pdf"
+    weight = 10
+  [[menu.main]]
     identifier = "projects"
     name = "Projects"
     url = "/projects/"
-    weight = 10
+    weight = 20
